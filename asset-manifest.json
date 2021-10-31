@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/slot-machine-game/static/css/main.705859be.chunk.css",
+    "main.js": "/slot-machine-game/static/js/main.9c861098.chunk.js",
+    "main.js.map": "/slot-machine-game/static/js/main.9c861098.chunk.js.map",
+    "runtime-main.js": "/slot-machine-game/static/js/runtime-main.652a3b37.js",
+    "runtime-main.js.map": "/slot-machine-game/static/js/runtime-main.652a3b37.js.map",
+    "static/js/2.272314fb.chunk.js": "/slot-machine-game/static/js/2.272314fb.chunk.js",
+    "static/js/2.272314fb.chunk.js.map": "/slot-machine-game/static/js/2.272314fb.chunk.js.map",
+    "index.html": "/slot-machine-game/index.html",
+    "static/css/main.705859be.chunk.css.map": "/slot-machine-game/static/css/main.705859be.chunk.css.map",
+    "static/js/2.272314fb.chunk.js.LICENSE.txt": "/slot-machine-game/static/js/2.272314fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652a3b37.js",
+    "static/js/2.272314fb.chunk.js",
+    "static/css/main.705859be.chunk.css",
+    "static/js/main.9c861098.chunk.js"
+  ]
+}
